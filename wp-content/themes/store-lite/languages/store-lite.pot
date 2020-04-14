@@ -1,0 +1,1854 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Store Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-08 11:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:84
+msgid " "
+msgstr ""
+
+#: template-parts/footer/footer-component.php:35
+msgid " has been added to your cart"
+msgstr ""
+
+#: inc/header-category.php:97
+msgid " Items"
+msgstr ""
+
+#: inc/home/product-deal-slide.php:322 inc/home/product-deal-slide.php:329
+msgid " out of 5"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:87
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:104
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. number of items in the mini cart.
+#: inc/woocommerce.php:125
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/custom-functions.php:26
+msgctxt "%s font: on or off"
+msgid "on"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:54
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: inc/custom-functions.php:56 inc/custom-functions.php:87
+#: inc/widgets/widget-base-class.php:495
+msgid "--Select Category--"
+msgstr ""
+
+#: inc/custom-functions.php:323
+msgid "--Select Page--"
+msgstr ""
+
+#: inc/custom-functions.php:347
+msgid "--Select Product--"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "0%"
+msgstr ""
+
+#: inc/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:146
+msgid "Add a review"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:95
+msgid "Add New Section"
+msgstr ""
+
+#: woocommerce/content-product-2.php:77 woocommerce/content-product.php:61
+msgid "Add To Cart"
+msgstr ""
+
+#: inc/woocommerce.php:242
+msgid "Add To Compare"
+msgstr ""
+
+#: woocommerce/add-to-wishlist.php:17
+msgid "Add To Wishlist"
+msgstr ""
+
+#: inc/woocommerce.php:70 inc/widgets/widgets.php:21 inc/widgets/widgets.php:31
+#: inc/widgets/widgets.php:41 inc/widgets/widgets.php:59
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer/theme-option.php:45
+msgid "Advanced"
+msgstr ""
+
+#: inc/customizer/theme-option.php:39
+#, php-format
+msgid "Advanced: Requires %1$sBreadcrumb NavXT%2$s plugin."
+msgstr ""
+
+#: inc/customizer/home/home-content.php:25
+msgid "Advertise Area Block"
+msgstr ""
+
+#: inc/home/advertise.php:21 inc/customizer/home/home-content.php:337
+msgid "Advertise Image"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:343
+msgid "Advertise Image Link"
+msgstr ""
+
+#: functions.php:239
+msgid "Advertisement Block"
+msgstr ""
+
+#: inc/widgets/recent-post.php:57
+msgid "All Categories"
+msgstr ""
+
+#: inc/advance-product-search.php:21
+msgid "All Category"
+msgstr ""
+
+#: woocommerce/cart/cart.php:168
+msgid "Apply coupon"
+msgstr ""
+
+#: inc/customizer/layout.php:57
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#: inc/widgets/author.php:67
+msgid "Author Image:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:76
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:174
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:43
+#: inc/home/product-deal-slide.php:268
+msgid "Average Rating"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Back To Shop"
+msgstr ""
+
+#: inc/customizer/header-media.php:36
+msgid "Banner Butten Label"
+msgstr ""
+
+#: inc/customizer/header-media.php:52
+msgid "Banner Button Link"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:421
+msgid "Banner Image 1"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:432
+msgid "Banner Image 2"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:443
+msgid "Banner Image 3"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:427
+msgid "Banner Image Link 1"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:438
+msgid "Banner Image Link 2"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:449
+msgid "Banner Image Link 3"
+msgstr ""
+
+#: inc/customizer/header-media.php:20
+msgid "Banner Text"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:146
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: functions.php:234 inc/customizer/home/home-content.php:20
+msgid "Best Deal Slide"
+msgstr ""
+
+#: inc/home/tab-block-1.php:126 inc/home/tab-block-2.php:127
+#: inc/widgets/product-lists.php:65 inc/widgets/products-tab.php:94
+#: inc/widgets/products-tab.php:175
+msgid "Best Deals"
+msgstr ""
+
+#: inc/home/tab-block-1.php:122 inc/home/tab-block-2.php:123
+#: inc/widgets/product-lists.php:64 inc/widgets/products-tab.php:82
+#: inc/widgets/products-tab.php:154 inc/customizer/home/home-content.php:41
+msgid "Best Sellers"
+msgstr ""
+
+#: inc/customizer/default.php:114
+msgid "Best Selling Items"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:359
+msgid "Best Selling Section Title"
+msgstr ""
+
+#: inc/customizer/theme-option.php:38
+msgid "Breadcrumb Layout"
+msgstr ""
+
+#: inc/customizer/theme-option.php:21
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:230
+msgid "Button Label 1"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:246
+msgid "Button Label 2"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:262
+msgid "Button Label 3"
+msgstr ""
+
+#: inc/customizer/default.php:31 inc/customizer/default.php:32
+#: inc/customizer/default.php:33 inc/home/slide-banner.php:159
+msgid "Buy Now"
+msgstr ""
+
+#: functions.php:233
+msgid "Call To Action"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:19
+msgid "Call To Action Block"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:213
+msgid "Call To Action Method"
+msgstr ""
+
+#: functions.php:231 inc/customizer/home/home-content.php:17
+msgid "Carousel Block"
+msgstr ""
+
+#: inc/customizer/default.php:74
+msgid "Carousel Posts"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:37
+msgid "Carousel Slide"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart totals"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:59
+#: inc/customizer/home/home-content.php:71
+msgid "Category"
+msgstr ""
+
+#: functions.php:241 inc/widgets/widget-base-class.php:279
+msgid "Choose Image"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:74
+msgid "City"
+msgstr ""
+
+#: inc/customizer/theme-option.php:75
+msgid "Classic(Previous/Next)"
+msgstr ""
+
+#: inc/customizer/custom-control.php:64
+msgid "Click hold and drag to re-order."
+msgstr ""
+
+#: inc/customizer/custom-control.php:68
+msgid "Click to expand settings."
+msgstr ""
+
+#: functions.php:237
+msgid "Client"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:24
+msgid "Client Block"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:188
+msgid "Client Content Type"
+msgstr ""
+
+#: inc/customizer/custom-control.php:358
+#: template-parts/header/offcanvas-menu.php:11
+msgid "Close"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:94 inc/widgets/tab-posts.php:173
+msgid "Comments"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce.php:242
+msgid "Compare"
+msgstr ""
+
+#: inc/customizer/default.php:228
+msgid "Copyright All Rights Reserved."
+msgstr ""
+
+#: woocommerce/cart/cart.php:163
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:168
+msgid "Coupon code"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:474
+msgid "CTA Background"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:464
+msgid "CTA Button Label"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:469
+msgid "CTA Button Link"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:459
+msgid "CTA Sub Title"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:454
+msgid "CTA Title"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:55
+msgid "Custom Fields"
+msgstr ""
+
+#: inc/breadcrumbs.php:790 inc/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/customizer/custom-control.php:357
+msgid "Delete"
+msgstr ""
+
+#: inc/widgets/author.php:62
+msgid "Description:"
+msgstr ""
+
+#: inc/customizer/single.php:31
+msgid "Disable Featured Image"
+msgstr ""
+
+#: inc/single/image-ed-metabox.php:49
+msgid "Disable image"
+msgstr ""
+
+#: inc/customizer/theme-option.php:43
+msgid "Disabled"
+msgstr ""
+
+#: inc/widgets/author.php:43
+msgid "Displays authors details in post."
+msgstr ""
+
+#: inc/widgets/category.php:45 inc/widgets/product-category.php:45
+msgid "Displays categories and posts."
+msgstr ""
+
+#: inc/widgets/product-lists.php:45 inc/widgets/recent-post.php:45
+msgid ""
+"Displays post form selected category specific for popular post in sidebars."
+msgstr ""
+
+#: inc/widgets/social-link.php:44
+msgid "Displays Social share."
+msgstr ""
+
+#: inc/widgets/social-link.php:134
+msgid "Dribbble URL:"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:131 template-parts/content-page.php:32
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:155
+msgid "Email"
+msgstr ""
+
+#: inc/woocommerce-login.php:30
+msgid "Email address"
+msgstr ""
+
+#: inc/customizer/woocommerce.php:50
+msgid "Enable After Add To Cart Popup"
+msgstr ""
+
+#: inc/customizer/footer.php:132
+msgid "Enable American Express Icon"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:394
+msgid "Enable Arrows"
+msgstr ""
+
+#: inc/customizer/single.php:82
+msgid "Enable Author Bio"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:404
+msgid "Enable Autoplay"
+msgstr ""
+
+#: inc/customizer/footer.php:68
+msgid "Enable Better Business Bureau Icon"
+msgstr ""
+
+#: inc/widgets/category.php:63 inc/widgets/product-category.php:63
+msgid "Enable Category Description:"
+msgstr ""
+
+#: inc/widgets/recent-post.php:60
+msgid "Enable Counter:"
+msgstr ""
+
+#: inc/widgets/products-tab.php:45 inc/widgets/tab-posts.php:57
+msgid "Enable Description:"
+msgstr ""
+
+#: inc/customizer/footer.php:148
+msgid "Enable Discover Icon"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:399
+msgid "Enable Dots"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:332
+msgid "Enable Excerpt Content"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:177
+msgid "Enable Fixed Background"
+msgstr ""
+
+#: inc/customizer/header.php:282
+msgid "Enable Header Login/Register"
+msgstr ""
+
+#: inc/customizer/header.php:266
+msgid "Enable Header Search"
+msgstr ""
+
+#: inc/customizer/header.php:298
+msgid "Enable Header Wishlist"
+msgstr ""
+
+#: inc/single/image-ed-metabox.php:44
+msgid "Enable image"
+msgstr ""
+
+#: inc/customizer/footer.php:116
+msgid "Enable Mastercard Icon"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:172
+msgid "Enable Overlay"
+msgstr ""
+
+#: inc/customizer/footer.php:84
+msgid "Enable PayPal Icon"
+msgstr ""
+
+#: inc/customizer/theme-option.php:102
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/customizer/header.php:64
+msgid "Enable Product Category"
+msgstr ""
+
+#: inc/customizer/single.php:48
+msgid "Enable Related Posts"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:354
+msgid "Enable Review Comment Content"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:100
+msgid "Enable Section"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:116
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:105
+msgid "Enable Subscribe Section on All Page"
+msgstr ""
+
+#: inc/customizer/footer.php:100
+msgid "Enable Visa Icon"
+msgstr ""
+
+#: inc/customizer/theme-option.php:103
+msgid "Enable/Disable Loading Animation."
+msgstr ""
+
+#: inc/widgets/products-tab.php:62 inc/widgets/tab-posts.php:74
+msgid "Excerpt Length:"
+msgstr ""
+
+#: inc/widgets/author.php:71 inc/widgets/social-link.php:54
+msgid "Facebook URL:"
+msgstr ""
+
+#: inc/customizer/default.php:51
+msgid "Featured Categories"
+msgstr ""
+
+#: inc/customizer/footer.php:52
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: functions.php:68
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/customizer/footer.php:14
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/widgets/widgets.php:57
+msgid "Footer Widget "
+msgstr ""
+
+#: inc/widgets/social-link.php:129
+msgid "FourSquare URL:"
+msgstr ""
+
+#: inc/widgets/products-tab.php:57 inc/widgets/tab-posts.php:69
+msgid "Full"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:50
+msgid "Full Width Layout"
+msgstr ""
+
+#: inc/widgets/social-link.php:124
+msgid "Github URL:"
+msgstr ""
+
+#: inc/single/image-ed-metabox.php:39
+msgid "Global image"
+msgstr ""
+
+#: inc/single/sidebar-metabox.php:39
+msgid "Global sidebar"
+msgstr ""
+
+#: inc/customizer/layout.php:30
+msgid "Global Sidebar Layout"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:173
+msgid "Good"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:49
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/home/product-deal-slide.php:320
+msgid "has reviewed"
+msgstr ""
+
+#: inc/customizer/header.php:32
+msgid "Header Advertise Image"
+msgstr ""
+
+#: inc/customizer/header.php:48
+msgid "Header Advertise Image Link"
+msgstr ""
+
+#: inc/customizer/header.php:96
+msgid "Header Product Category 1"
+msgstr ""
+
+#: inc/customizer/header.php:249
+msgid "Header Product Category 10"
+msgstr ""
+
+#: inc/customizer/header.php:113
+msgid "Header Product Category 2"
+msgstr ""
+
+#: inc/customizer/header.php:130
+msgid "Header Product Category 3"
+msgstr ""
+
+#: inc/customizer/header.php:147
+msgid "Header Product Category 4"
+msgstr ""
+
+#: inc/customizer/header.php:164
+msgid "Header Product Category 5"
+msgstr ""
+
+#: inc/customizer/header.php:181
+msgid "Header Product Category 6"
+msgstr ""
+
+#: inc/customizer/header.php:198
+msgid "Header Product Category 7"
+msgstr ""
+
+#: inc/customizer/header.php:215
+msgid "Header Product Category 8"
+msgstr ""
+
+#: inc/customizer/header.php:232
+msgid "Header Product Category 9"
+msgstr ""
+
+#: inc/customizer/header.php:14
+msgid "Header Settings"
+msgstr ""
+
+#: inc/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:78
+msgid "Homepage Content"
+msgstr ""
+
+#: inc/customizer/default.php:82
+msgid "Horizontal Tab"
+msgstr ""
+
+#: inc/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.themeinwp.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.themeinwp.com/theme/store-lite/"
+msgstr ""
+
+#: inc/advance-product-search.php:42
+msgid "I'm searching for..."
+msgstr ""
+
+#: inc/single/image-ed-metabox.php:17 inc/single/image-ed-metabox.php:25
+msgid "Image Setting"
+msgstr ""
+
+#: inc/home/product-deal-slide.php:254
+msgid "In Stock"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:500
+msgid "Info"
+msgstr ""
+
+#: functions.php:238 inc/customizer/home/home-content.php:27
+msgid "Info Block"
+msgstr ""
+
+#: inc/widgets/author.php:86 inc/widgets/social-link.php:69
+msgid "Instagram URL:"
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/home/product-category.php:107 inc/home/product-category.php:204
+msgid "items"
+msgstr ""
+
+#: inc/customizer/default.php:150
+msgid "Kind words from our Clients"
+msgstr ""
+
+#: inc/widgets/products-tab.php:56 inc/widgets/tab-posts.php:68
+#: inc/customizer/home/home-content.php:67
+msgid "Large"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:21
+msgid "Latest Blog Block"
+msgstr ""
+
+#: inc/customizer/default.php:136
+msgid "Latest News"
+msgstr ""
+
+#: functions.php:235 inc/customizer/home/home-content.php:22
+msgid "Latest News Block"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:415
+msgid "Latest Posts Layout"
+msgstr ""
+
+#: inc/widgets/product-lists.php:63 inc/customizer/home/home-content.php:40
+msgid "Latest Product"
+msgstr ""
+
+#: inc/customizer/layout.php:13
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/customizer/default.php:209
+msgid "Learn More"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:112
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:148
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/customizer/layout.php:35 inc/customizer/woocommerce.php:35
+#: inc/customizer/home/home-content.php:32
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/single/sidebar-metabox.php:49
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:225
+msgid "Link 1"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:241
+msgid "Link 2"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:257
+msgid "Link 3"
+msgstr ""
+
+#: inc/widgets/author.php:81 inc/widgets/social-link.php:64
+msgid "Linkedin URL:"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:95
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: functions.php:187
+msgid "Load More"
+msgstr ""
+
+#: functions.php:189
+msgid "Loading..."
+msgstr ""
+
+#: inc/bottom-header.php:54 inc/woocommerce-login.php:83
+#: inc/woocommerce-login.php:83
+msgid "Log in"
+msgstr ""
+
+#: functions.php:36 template-parts/woocommerce-login.php:23
+msgid "Login"
+msgstr ""
+
+#: inc/customizer/header.php:314
+msgid "Login Page Link"
+msgstr ""
+
+#: inc/widgets/widgets.php:39
+msgid "Login Page Widget"
+msgstr ""
+
+#: inc/woocommerce-login.php:88
+msgid "Lost your password?"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:88
+msgid "Mailchimp for WordPress"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:137
+msgid "Mailchimp Shortcode"
+msgstr ""
+
+#: template-parts/header/offcanvas-menu.php:35
+msgid "Main Navigation"
+msgstr ""
+
+#: inc/widgets/products-tab.php:55 inc/widgets/tab-posts.php:67
+#: inc/customizer/home/home-content.php:66
+msgid "Medium"
+msgstr ""
+
+#: header.php:162
+msgid "Menu"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumbs.php:789 inc/breadcrumbs.php:845 inc/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/bottom-header.php:63
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:153
+msgid "Name"
+msgstr ""
+
+#: inc/widgets/author.php:57
+msgid "Name:"
+msgstr ""
+
+#: inc/home/tab-block-1.php:119 inc/home/tab-block-2.php:119
+#: inc/widgets/products-tab.php:70 inc/widgets/products-tab.php:135
+msgid "New Arrivals"
+msgstr ""
+
+#: functions.php:240 inc/customizer/home/home-content.php:94
+msgid "New Section"
+msgstr ""
+
+#: single.php:29
+msgid "Next"
+msgstr ""
+
+#: single.php:30
+msgid "Next post:"
+msgstr ""
+
+#: inc/customizer/custom-control.php:333
+msgid "No image selected"
+msgstr ""
+
+#: functions.php:188
+msgid "No More Posts"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:78
+msgid "No products in the cart."
+msgstr ""
+
+#: inc/customizer/layout.php:36 inc/customizer/woocommerce.php:36
+#: inc/customizer/home/home-content.php:33
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/single/sidebar-metabox.php:54
+msgid "No sidebar"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:98
+msgid "No. of Comments:"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:49 inc/widgets/tab-posts.php:86
+msgid "No. of Posts:"
+msgstr ""
+
+#: inc/widgets/products-tab.php:74 inc/widgets/products-tab.php:86
+#: inc/widgets/products-tab.php:98
+msgid "No. of Products:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:175
+msgid "Not that bad"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/widgets/recent-post.php:65
+msgid "Number of Posts:"
+msgstr ""
+
+#: inc/widgets/product-lists.php:69
+msgid "Number of Products:"
+msgstr ""
+
+#: inc/widgets/products-tab.php:63 inc/widgets/tab-posts.php:75
+msgid "Number of words"
+msgstr ""
+
+#: inc/customizer/theme-option.php:76
+msgid "Numeric"
+msgstr ""
+
+#: inc/widgets/widgets.php:29
+msgid "Offcanvas Widget"
+msgstr ""
+
+#: inc/home/testimonial.php:132
+msgid "on"
+msgstr ""
+
+#: inc/home/product-deal-slide.php:250
+msgid "On backorder"
+msgstr ""
+
+#: inc/widgets/widgets.php:52
+msgid "One"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:83
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/customizer/footer.php:35
+msgid "One Column"
+msgstr ""
+
+#. 1: title.
+#: comments.php:36
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:187
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/home/testimonial.php:105 inc/home/testimonial.php:111
+msgid "out of 5"
+msgstr ""
+
+#: inc/home/product-deal-slide.php:246
+msgid "Out of stock"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:54
+#: inc/customizer/home/home-content.php:61
+#: inc/customizer/home/home-content.php:72
+msgid "Page"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:219
+msgid "Page 1"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:303
+msgid "Page 10"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:235
+msgid "Page 2"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:251
+msgid "Page 3"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:267
+msgid "Page 4"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:273
+msgid "Page 5"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:279
+msgid "Page 6"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:285
+msgid "Page 7"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:291
+msgid "Page 8"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:297
+msgid "Page 9"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:46
+msgid "Pages"
+msgstr ""
+
+#: template-parts/content-page.php:19 template-parts/content.php:68
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/theme-option.php:71
+msgid "Pagination Layout"
+msgstr ""
+
+#: inc/customizer/theme-option.php:54
+msgid "Pagination Settings"
+msgstr ""
+
+#: inc/woocommerce-login.php:35 inc/woocommerce-login.php:77
+msgid "Password"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:172
+msgid "Perfect"
+msgstr ""
+
+#: inc/widgets/social-link.php:74
+msgid "Pinterest URL:"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:45 inc/widgets/tab-posts.php:142
+msgid "Popular"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:50
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:45
+#: inc/customizer/home/home-content.php:207
+msgid "Post Category"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: inc/customizer/theme-option.php:85
+msgid "Preloader Settings"
+msgstr ""
+
+#: inc/customizer/theme-option.php:119
+msgid "Preloader Text"
+msgstr ""
+
+#: single.php:32
+msgid "Previous"
+msgstr ""
+
+#: single.php:33
+msgid "Previous post:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:81
+msgid "Price"
+msgstr ""
+
+#: functions.php:65
+msgid "Primary Menu"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:61
+msgid "Product"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:309
+msgid "Product 1"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:315
+msgid "Product 2"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:321
+msgid "Product 3"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:348
+msgid "Product Category"
+msgstr ""
+
+#: functions.php:229 inc/customizer/home/home-content.php:15
+msgid "Product Category Block"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:388
+msgid "Product Category Five"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:382
+msgid "Product Category Four"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:376
+msgid "Product Category Three"
+msgstr ""
+
+#: inc/customizer/header.php:80
+msgid "Product Category Title"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:370
+msgid "Product Category Two"
+msgstr ""
+
+#: inc/widgets/product-lists.php:56
+msgid "Product Category:"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:44
+msgid "Product Review"
+msgstr ""
+
+#: inc/widgets/product-lists.php:60
+msgid "Product Shorting:"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:364
+msgid "Product Sorting"
+msgstr ""
+
+#: inc/widgets/products-tab.php:41
+msgid "Product Tabbed widget."
+msgstr ""
+
+#: inc/customizer/home/home-content.php:60
+msgid "Products"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:87
+msgid "Quantity"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:142
+msgid "Quick Info Page 1"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:148
+msgid "Quick Info Page 2"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:154
+msgid "Quick Info Page 3"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:160
+msgid "Quick Info Page 4"
+msgstr ""
+
+#: inc/woocommerce.php:196
+msgid "Quick View"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:171
+msgid "Rate&hellip;"
+msgstr ""
+
+#: inc/home/testimonial.php:105 inc/home/testimonial.php:109
+msgid "Rated"
+msgstr ""
+
+#: inc/home/product-deal-slide.php:322 inc/home/product-deal-slide.php:325
+msgid "Rated "
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/widgets/tab-posts.php:82 inc/widgets/tab-posts.php:152
+msgid "Recent"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:422
+#: inc/customizer/home/home-content.php:433
+#: inc/customizer/home/home-content.php:444
+#: inc/customizer/home/home-content.php:475
+msgid "Recommended Image Size is 270x630 PX."
+msgstr ""
+
+#: inc/customizer/home/home-content.php:338
+msgid "Recommended Image Size is 970x250 PX."
+msgstr ""
+
+#: inc/widgets/social-link.php:79
+msgid "Reddit URL:"
+msgstr ""
+
+#: inc/bottom-header.php:57 inc/woocommerce-login.php:43
+#: inc/woocommerce-login.php:43 template-parts/woocommerce-login.php:28
+msgid "Register"
+msgstr ""
+
+#: inc/customizer/default.php:219
+msgid "Related Post"
+msgstr ""
+
+#: inc/woocommerce-login.php:85
+msgid "Remember me"
+msgstr ""
+
+#: inc/customizer/custom-control.php:339
+msgid "Remove"
+msgstr ""
+
+#: inc/widgets/widget-base-class.php:290
+msgctxt "Remove"
+msgid "X"
+msgstr ""
+
+#: woocommerce/cart/cart.php:117 woocommerce/cart/mini-cart.php:46
+msgid "Remove this item"
+msgstr ""
+
+#: inc/home/testimonial.php:98 inc/home/testimonial.php:126
+#: inc/home/testimonial.php:126
+msgid "Reviewer Avatar"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+msgid "Reviews"
+msgstr ""
+
+#: inc/customizer/layout.php:34 inc/customizer/woocommerce.php:34
+#: inc/customizer/home/home-content.php:31
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/single/sidebar-metabox.php:44
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/home/product-category.php:118 inc/home/product-category.php:215
+msgid "sale"
+msgstr ""
+
+#. %s: search query.
+#: inc/custom-functions.php:256
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. %s is the search query.
+#: inc/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: functions.php:66
+msgid "Secondary Menu"
+msgstr ""
+
+#: template-parts/header/offcanvas-menu.php:50
+msgid "Secondary Navigation"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:132
+msgid "Section Description"
+msgstr ""
+
+#: inc/customizer/single.php:65 inc/customizer/home/home-content.php:127
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:110
+msgid "Section Type"
+msgstr ""
+
+#: functions.php:242
+msgid "Select"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:29
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:54
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: inc/widgets/recent-post.php:55
+msgid "Select Category:"
+msgstr ""
+
+#: inc/customizer/custom-control.php:340 inc/widgets/widget-base-class.php:279
+msgid "Select Image"
+msgstr ""
+
+#: inc/widgets/products-tab.php:50 inc/widgets/tab-posts.php:62
+msgid "Select Image Size Featured Post:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:179 woocommerce/cart/cart.php:194
+#: woocommerce/cart/cart.php:195
+msgid "Shipping"
+msgstr ""
+
+#: inc/customizer/default.php:207
+msgid "Shop By Categories"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:327
+msgid "Show Relevant Category Only"
+msgstr ""
+
+#: inc/widgets/widgets.php:19
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:409
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/single/sidebar-metabox.php:17 inc/single/sidebar-metabox.php:25
+msgid "Sidebar Layouts"
+msgstr ""
+
+#: inc/customizer/default.php:188 inc/customizer/default.php:229
+msgid "Sign Up For Our Newsletter"
+msgstr ""
+
+#: inc/customizer/default.php:100 inc/customizer/default.php:215
+msgid "Signup Now"
+msgstr ""
+
+#: inc/customizer/theme-option.php:44
+msgid "Simple"
+msgstr ""
+
+#: inc/customizer/single.php:14
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/customizer/woocommerce.php:30
+msgid "Single Product Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:36
+msgid "Single Slide"
+msgstr ""
+
+#: inc/customizer/default.php:208
+msgid "Site Loading"
+msgstr ""
+
+#: header.php:56
+msgid "Skip to content"
+msgstr ""
+
+#: inc/widgets/social-link.php:84
+msgid "Skype URL:"
+msgstr ""
+
+#: inc/widgets/author.php:92
+msgid "SL: Author Widget"
+msgstr ""
+
+#: inc/widgets/category.php:69
+msgid "SL: Category Widget"
+msgstr ""
+
+#: inc/widgets/product-category.php:69
+msgid "SL: Product Category Widget"
+msgstr ""
+
+#: inc/widgets/product-lists.php:78
+msgid "SL: Product Lists Widget"
+msgstr ""
+
+#: inc/widgets/recent-post.php:74
+msgid "SL: Recent Post Widget"
+msgstr ""
+
+#: inc/widgets/social-link.php:145
+msgid "SL: Social Widget"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:107
+msgid "SL: Tab Posts Widget"
+msgstr ""
+
+#: inc/widgets/products-tab.php:107
+msgid "SL: Tab Products Widget"
+msgstr ""
+
+#: functions.php:228 inc/customizer/home/home-content.php:14
+msgid "Slide Banner Block"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:182
+msgid "Slider Banner Height"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:166
+msgid "Slider Banner Type"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:121
+msgid "Slider Category"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:65
+msgid "Small"
+msgstr ""
+
+#: inc/widgets/social-link.php:89
+msgid "Snapchat URL:"
+msgstr ""
+
+#: functions.php:69
+msgid "Social Menu"
+msgstr ""
+
+#: template-parts/header/offcanvas-menu.php:64
+msgid "Social profiles"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:48
+#: woocommerce/cart/shipping-calculator.php:53
+#: woocommerce/cart/shipping-calculator.php:65
+msgid "State / County"
+msgstr ""
+
+#: inc/home/product-deal-slide.php:237
+msgid "Status:"
+msgstr ""
+
+#. Name of the theme
+msgid "Store Lite"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Store Lite perfectly balances the simplicity of a clean, eye-catching blog "
+"with the flexibility to create unique page layouts. Whatever web presence "
+"you're creating: portfolio, corporate site, personal blog, product or album "
+"— Store Lite helps you quickly achieve your goals. Store Lite is compatible "
+"with all modern browsers - it’s responsive on all screen sizes and it’s "
+"optimized for speed. Live Preview: https://demo.themeinwp.com/store-lite/"
+msgstr ""
+
+#: inc/customizer/customizer.php:74
+msgid "Store Lite Pro"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:158
+msgid "Submit"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:26
+msgid "Subscribe Block"
+msgstr ""
+
+#: inc/customizer/default.php:189 inc/customizer/default.php:230
+msgid "Subscribe our newsletter and get discount 20% Off"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:32 woocommerce/cart/cart-totals.php:33
+#: woocommerce/cart/mini-cart.php:70
+msgid "Subtotal"
+msgstr ""
+
+#: functions.php:230 inc/customizer/home/home-content.php:16
+msgid "Tab Block 1"
+msgstr ""
+
+#: functions.php:232 inc/customizer/home/home-content.php:18
+msgid "Tab Block 2"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:41
+msgid "Tabbed widget."
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:98
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: functions.php:236
+msgid "Testimonial"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:23
+msgid "Testimonial Block"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:194
+msgid "Testimonial Layout"
+msgstr ""
+
+#: inc/customizer/home/home-content.php:200
+msgid "Testimonial Type"
+msgstr ""
+
+#: inc/customizer/theme-option.php:13
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/woocommerce.php:13
+msgid "Theme Settings"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:125
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeInWP"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:134
+msgid "There are no reviews yet."
+msgstr ""
+
+#: inc/widgets/widgets.php:54
+msgid "Three"
+msgstr ""
+
+#: inc/customizer/footer.php:37
+msgid "Three Column"
+msgstr ""
+
+#: inc/widgets/products-tab.php:54 inc/widgets/tab-posts.php:66
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/widgets/author.php:48 inc/widgets/category.php:50
+#: inc/widgets/product-category.php:50 inc/widgets/product-lists.php:51
+#: inc/widgets/recent-post.php:50 inc/widgets/social-link.php:49
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/category.php:55
+msgid "Top Categories:"
+msgstr ""
+
+#: inc/customizer/footer.php:31
+msgid "Top Footer Column Layout"
+msgstr ""
+
+#: functions.php:67
+msgid "Top Menu"
+msgstr ""
+
+#: template-parts/header/offcanvas-menu.php:19
+msgid "Top Navigation"
+msgstr ""
+
+#: inc/widgets/product-category.php:55
+msgid "Top Product Categories:"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:75 woocommerce/cart/cart-totals.php:76
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:105
+msgid "Total"
+msgstr ""
+
+#: inc/customizer/default.php:113
+msgid "Trending Hot Deals"
+msgstr ""
+
+#: inc/widgets/social-link.php:94
+msgid "Tumblr URL:"
+msgstr ""
+
+#: inc/widgets/social-link.php:99
+msgid "Twitch URL:"
+msgstr ""
+
+#: inc/widgets/author.php:76 inc/widgets/social-link.php:59
+msgid "Twitter URL:"
+msgstr ""
+
+#: inc/widgets/widgets.php:53
+msgid "Two"
+msgstr ""
+
+#: inc/customizer/footer.php:36
+msgid "Two Column"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:84
+msgid "Update"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Update cart"
+msgstr ""
+
+#: inc/customizer/customizer.php:75
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/widgets/widget-base-class.php:279
+msgid "Upload"
+msgstr ""
+
+#: inc/woocommerce-login.php:25
+msgid "Username"
+msgstr ""
+
+#: inc/woocommerce-login.php:74
+msgid "Username or email address"
+msgstr ""
+
+#: inc/customizer/default.php:57
+msgid "Vertical Tab"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:176
+msgid "Very poor"
+msgstr ""
+
+#: template-parts/footer/footer-component.php:36
+msgid "View Cart"
+msgstr ""
+
+#: inc/woocommerce.php:121
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/widgets/social-link.php:109
+msgid "Vimeo URL:"
+msgstr ""
+
+#: inc/widgets/social-link.php:139
+msgid "VK URL:"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/widgets/social-link.php:114
+msgid "Whatsapp URL:"
+msgstr ""
+
+#: inc/widgets/author.php:53
+msgid "Widget Background Image:"
+msgstr ""
+
+#: functions.php:41
+msgid "Wishlist"
+msgstr ""
+
+#: inc/customizer/header.php:330
+msgid "Wishlist Page Link"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:63
+msgid "WooCommerce"
+msgstr ""
+
+#. Name of the template
+msgid "Woocommerce Login/Register"
+msgstr ""
+
+#: inc/woocommerce.php:68
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/widgets/social-link.php:119
+msgid "WordPress URL:"
+msgstr ""
+
+#: inc/breadcrumbs.php:788 inc/breadcrumbs.php:817 inc/breadcrumbs.php:844
+#: inc/breadcrumbs.php:871 inc/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:78
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:73
+msgid "YITH WooCommerce Quick View"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:68
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: inc/woocommerce-login.php:11
+#, php-format
+msgid ""
+"You are currently logged in. If you wish to register with a different "
+"account please <a href=\"%s\">log out</a> first"
+msgstr ""
+
+#. %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:166
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:170
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:180
+msgid "Your review"
+msgstr ""
+
+#: inc/widgets/social-link.php:104
+msgid "Youtube URL:"
+msgstr ""
