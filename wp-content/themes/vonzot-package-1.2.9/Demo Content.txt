@@ -1,0 +1,5 @@
+To install the demo content automatically, please follow the instruction in the documentation.
+https://wolfthemes.ticksy.com/article/11656/
+
+To install the demo revolution sliders and/or if you want to install the demo content manually, you can download the demo content files here:
+http://updates.wolfthemes.com/download.php?theme=vonzot

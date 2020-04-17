@@ -1,0 +1,1 @@
+Double click on a HTML file to open it in your browser.
