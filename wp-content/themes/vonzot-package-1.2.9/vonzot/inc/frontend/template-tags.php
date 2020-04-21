@@ -607,7 +607,11 @@ if ( ! function_exists( 'vonzot_account_menu_item' ) ) {
 			$class .= ' account-item-icon-user-not-logged-in';
 		}
 
-		$account_url = get_permalink( wc_get_page_id( 'myaccount' ) );
+		// $account_url = get_permalink( wc_get_page_id( 'myaccount' ) );
+
+		// Updated Account Url
+		$account_url = "/herdwrite/shop/my-account";
+		
 
 		ob_start();
 		?>
@@ -637,7 +641,8 @@ if ( ! function_exists( 'vonzot_cart_menu_item' ) ) {
 		$product_count = WC()->cart->get_cart_contents_count();
 		ob_start();
 		?>
-			<a href="<?php echo wc_get_cart_url(); ?>" title="<?php esc_attr_e( 'Cart', 'vonzot' ); ?>" class="cart-item-icon toggle-cart">
+			<!-- <a href="<?php echo wc_get_cart_url(); ?>" title="<?php esc_attr_e( 'Cart', 'vonzot' ); ?>" class="cart-item-icon toggle-cart"> -->
+			<a href="/herdwrite/shop/cart" title="<?php esc_attr_e( 'Cart', 'vonzot' ); ?>" class="cart-item-icon toggle-cart">
 				<span class="cart-icon-product-count"><?php echo absint( $product_count ); ?></span>
 			</a>
 		<?php
@@ -669,7 +674,8 @@ function vonzot_cart_menu_item_mobile( $echo = true ) {
 	$product_count = WC()->cart->get_cart_contents_count();
 	ob_start();
 	?>
-		<a href="<?php echo wc_get_cart_url(); ?>" title="<?php esc_attr_e( 'Cart', 'vonzot' ); ?>" class="cart-item-mobile toggle-cart-mobile">
+		<!-- <a href="<?php echo wc_get_cart_url(); ?>" title="<?php esc_attr_e( 'Cart', 'vonzot' ); ?>" class="cart-item-mobile toggle-cart-mobile"> -->
+		<a href="/herdwrite/shop/cart" title="<?php esc_attr_e( 'Cart', 'vonzot' ); ?>" class="cart-item-mobile toggle-cart-mobile">
 			<span class="cart-label-mobile"><?php esc_html_e( 'Cart', 'vonzot' ); ?>
 			<span class="cart-icon-product-count"><?php echo absint( $product_count ); ?></span>
 			</span>
@@ -694,7 +700,10 @@ if ( ! function_exists( 'vonzot_wishlist_menu_item' ) ) {
 			return;
 		}
 
-		$wishlist_url = wolf_get_wishlist_url();
+		// Updated wishlist url
+		// $wishlist_url = wolf_get_wishlist_url();
+		$wishlist_url = "/herdwrite/shop/wishlist";
+
 		ob_start();
 		?>
 			<a href="<?php echo esc_url( $wishlist_url ); ?>" title="<?php esc_attr_e( 'My Wishlist', 'vonzot' ); ?>" class="wishlist-item-icon"></a>
