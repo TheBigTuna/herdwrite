@@ -1,0 +1,11 @@
+2020-04-26T22:03:53+00:00 CRITICAL Uncaught Error: Call to undefined function vonzot_cart_panel() in C:\xampp\htdocs\herdwrite\wp-content\themes\vonzot-package-1.2.9\vonzot\inc\frontend\hooks\navigation.php:156
+Stack trace:
+#0 C:\xampp\htdocs\herdwrite\wp-includes\class-wp-hook.php(287): vonzot_output_complementary_menu('desktop')
+#1 C:\xampp\htdocs\herdwrite\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\herdwrite\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\herdwrite\wp-content\themes\vonzot-package-1.2.9\vonzot\components\navigation\content-top-right.php(41): do_action('vonzot_secondar...', 'desktop')
+#4 C:\xampp\htdocs\herdwrite\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\herdwrite\wp-includes\template.php(672): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\herdwrite\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#7 C:\xampp\htdocs\herdwrite\wp-content\themes\vonzot-package-1.2.9\vonzo in C:\xampp\htdocs\herdwrite\wp-content\themes\vonzot-package-1.2.9\vonzot\inc\frontend\hooks\navigation.php on line 156
+

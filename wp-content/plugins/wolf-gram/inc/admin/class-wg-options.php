@@ -6,7 +6,7 @@
  * @author WolfThemes
  * @category Admin
  * @package WolfGram/Admin
- * @version 1.6.1
+ * @version 1.6.2
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -80,19 +80,23 @@ class WG_Options {
 	 */
 	public function settings_validate( $input) {
 
-		$input['count'] = absint( $input['count'] );
-		//$input['username'] = esc_attr( $input['username'] );
-		$input['api_key'] = esc_attr( $input['api_key'] );
+		if ( isset( $input['count'] ) ) {
+			$input['count'] = absint( $input['count'] );
 
-		if ( $input['count'] > 30 ) {
+			if ( $input['count'] > 30 ) {
+				$input['count']= 30;
+			}
+		} else {
 			$input['count']= 30;
 		}
+		
+		//$input['username'] = esc_attr( $input['username'] );
 
-		$input['lightbox'] = esc_attr( $input['lightbox'] );
+		$input['lightbox'] = ( isset( $input['lightbox'] ) ) ? esc_attr( $input['lightbox'] ) : null;
 
 		if ( isset( $input['api_key'] ) ) {
+			$input['api_key'] = esc_attr( $input['api_key'] );
 			update_option( 'wolf_instagram_access_token', $input['api_key'] );
-
 			update_option( 'wolf_instagram_username', wolf_gram_get_user_id( get_option( 'wolf_instagram_access_token' ) ) );
 		}
 

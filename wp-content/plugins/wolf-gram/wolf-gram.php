@@ -3,7 +3,7 @@
  * Plugin Name: Wolf Gram
  * Plugin URI: http://wolfthemes.com/plugin/wolf-gram/
  * Description: A WordPress Plugin to Display your Instagram Feed.
- * Version: 1.6.1
+ * Version: 1.6.2
  * Author: WolfThemes
  * Author URI: http://wolfthemes.com
  * Requires at least: 4.4.1
@@ -45,7 +45,7 @@ if ( ! class_exists( 'Wolf_Instagram' ) ) {
 	 * Contains the main functions for Wolf_Instagram
 	 *
 	 * @class Wolf_Instagram
-	 * @version 1.6.1
+	 * @version 1.6.2
 	 * @since 1.0.0
 	 * @package WolfGram
 	 * @author WolfThemes
@@ -60,7 +60,7 @@ if ( ! class_exists( 'Wolf_Instagram' ) ) {
 		/**
 		 * @var string
 		 */
-		public $version = '1.6.1';
+		public $version = '1.6.2';
 
 		/**
 		 * @var Wolf Gram The single instance of the class

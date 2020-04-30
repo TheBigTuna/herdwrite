@@ -1,7 +1,7 @@
 /*!
  * WolfGram
  *
- * Wolf Gram 1.6.1
+ * Wolf Gram 1.6.2
  */
 /* jshint -W062 */
 /* global DocumentTouch */

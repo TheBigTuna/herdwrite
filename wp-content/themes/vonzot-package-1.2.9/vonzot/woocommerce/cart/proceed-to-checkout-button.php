@@ -22,6 +22,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 ?>
 
-<a href="<?php echo esc_url( wc_get_checkout_url() ); ?>" class="<?php echo apply_filters( 'vonzot_proceed_to_checkout_button_class', 'checkout-button button alt wc-forward' ); ?>">
+<!-- <a href="<?php echo esc_url( wc_get_checkout_url() ); ?>" class="<?php echo apply_filters( 'vonzot_proceed_to_checkout_button_class', 'checkout-button button alt wc-forward' ); ?>"> -->
+<a href="/herdwrite/shop/checkout" class="<?php echo apply_filters( 'vonzot_proceed_to_checkout_button_class', 'checkout-button button alt wc-forward' ); ?>">
 	<?php esc_html_e( 'Proceed to checkout', 'vonzot' ); ?>
 </a>

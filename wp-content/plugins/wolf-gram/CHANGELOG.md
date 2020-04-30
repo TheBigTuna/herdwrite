@@ -1,3 +1,7 @@
+#### 23rd April 2020 - Version 1.6.2
+
+* Fix: Video Thumbnail
+
 #### 3rd April 2020 - Version 1.6.1
 
 * Tweak: Refresh access token automatically every 30 days to avoid expired token

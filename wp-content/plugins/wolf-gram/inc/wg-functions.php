@@ -306,9 +306,20 @@ function wolf_gram_gallery( $args ) {
 				continue;
 			}
 
-			$output .= '<figure class="wolf-instagram-item"><div class="wolf-instagram-item-outer"><div class="wolf-instagram-item-container">
-				<div class="wolf-instagram-item-inner" style="background-image:url( ' . esc_url( $src ) . ' );">
-				<a' . $target . ' class="' . esc_attr( $lightbox ) . '-wolfgram-' . absint( $rand ) . ' wolf-instagram-link" href="'. esc_url( $link ).'">
+			$output .= '<figure class="wolf-instagram-item"><div class="wolf-instagram-item-outer"><div class="wolf-instagram-item-container">';
+				
+				
+			if ( preg_match( '/video/', $src ) ) {
+				
+				$output .= '<div class="wolf-instagram-item-inner">';
+
+				$output .= '<video src="' . esc_url( $src ) . '" muted></video>';
+			
+			} else {
+				$output .= '<div class="wolf-instagram-item-inner" style="background-image:url( ' . esc_url( $src ) . ' );">';
+			}
+
+			$output .= '<a' . $target . ' class="' . esc_attr( $lightbox ) . '-wolfgram-' . absint( $rand ) . ' wolf-instagram-link" href="'. esc_url( $link ).'">
 					<div class="wolf-instagram-overlay">
 						<span  class="wolf-instagram-meta-container">
 							<i class="fa socicon-instagram"></i>
